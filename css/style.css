@@ -1,0 +1,21 @@
+#form-div{
+border:2px solid black ;
+display: inline-grid;
+width: 25%;
+margin-left:2%;
+padding: 10px;
+
+}
+
+#results-div{
+  border: 2px solid black ;
+  display: inline-grid;
+  margin-left:2%;
+  width:66%;
+
+
+
+}
+.entry-div{
+    
+}
