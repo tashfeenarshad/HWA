@@ -4,7 +4,7 @@ Coverage: 97%
 # Cars
 A  project using Java SpringBoot framwork to create an  API and allow the frontend to POST, GET, PUT and DELETE data from the database.
 
-#Getting started 
+# Getting started 
 The following tech was used to make this project
 
 Java 
@@ -17,14 +17,14 @@ JS
 Maven
 Spring Boot
 
-#testing 
+# Testing 
 Open eclipise or the IDe of your chocie and then open the src/main/testing folder and run it to see the tests. Unit tests were carried put using JUnit and integeration tests as well with the addition of Mockito.
 
-#Authors
+# Authors
 Tashfeen Arshad 
-#License
+# License
 This project is licensed under the MIT license - see the LICENSE.md file for details
 
-Acknowledgments
+# Acknowledgments
 Thanks to Anoush for the brillant training 
 
