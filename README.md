@@ -18,7 +18,7 @@ Maven
 Spring Boot
 
 # Testing 
-Open eclipise or the IDe of your chocie and then open the src/main/testing folder and run it to see the tests. Unit tests were carried put using JUnit and integeration tests as well with the addition of Mockito.
+Open eclipise or the IDE of your chocie and then open the src/main/testing folder and run it to see the tests. Unit tests were carried put using JUnit and integeration tests as well with the addition of Mockito.
 
 # Authors
 Tashfeen Arshad 
