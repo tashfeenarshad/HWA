@@ -12,7 +12,7 @@ GitHub
 MySQL Workbench
 Postman
 Axios
-HTMl/CSS
+HTML/CSS
 JS
 Maven
 Spring Boot
